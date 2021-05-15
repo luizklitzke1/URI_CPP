@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\luizk\Documents\wk\Visual\1026\Main.cpp(26,28): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\luizk\Documents\wk\Visual\1026\Main.cpp(50,39): warning C4244: 'argumento': conversão de 'double' para 'unsigned __int64', possível perda de dados
+C:\Users\luizk\Documents\wk\Visual\1026\Main.cpp(51,39): warning C4244: 'argumento': conversão de 'double' para 'unsigned __int64', possível perda de dados
+C:\Users\luizk\Documents\wk\Visual\1026\Main.cpp(75,45): warning C4244: 'argumento': conversão de 'double' para 'const unsigned int', possível perda de dados
+C:\Users\luizk\Documents\wk\Visual\1026\Main.cpp(75,79): warning C4244: 'argumento': conversão de 'double' para 'const unsigned int', possível perda de dados
+C:\Users\luizk\Documents\wk\Visual\1026\Main.cpp(82,70): warning C4244: 'argumento': conversão de 'double' para 'const unsigned int', possível perda de dados
+  1026.vcxproj -> C:\Users\luizk\Documents\wk\Visual\1026\Debug\1026.exe

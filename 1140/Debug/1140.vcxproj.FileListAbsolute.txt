@@ -1,0 +1,3 @@
+C:\Users\luizk\Documents\wk\Visual\1140\Debug\1140.exe
+C:\Users\luizk\Documents\wk\Visual\1140\Debug\1140.pdb
+C:\Users\luizk\Documents\wk\Visual\1140\1140.pdb
